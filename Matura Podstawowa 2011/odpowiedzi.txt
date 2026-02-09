@@ -1,0 +1,5 @@
+odp
+a) pytania: 2,9,12,17,18,19,21
+b) 55 uczniów
+c) bdb: 1 osoba , ndst: 6 osób
+d) uczeń nr 2,45,65,70,79

@@ -1,0 +1,18 @@
+a)
+A: 221 Zł
+B: 117 Zł
+C: 198 Zł
+b)
+      	Najniższa Najwyższa
+Cena A	  167	     264
+Cena B	  62	     210
+Cena C	  97	     223
+d)
+Ilość krachów: 6
+Ostatni krach: dzień 302
+A: 224
+B: 163
+C: 194
+e) 
+rekord zmieniał się w firmie A 
+14 razy
